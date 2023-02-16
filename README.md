@@ -1,30 +1,15 @@
-# vue_bua
+## 剧本杀小程序
 
-> A Vue.js project
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-## Build Setup
+### PC 端截图
 
-``` bash
-# install dependencies
-npm install
+<img src='https://img1.imgtp.com/2023/02/16/313RFVWf.png'/>
 
-# serve with hot reload at localhost:8080
-npm run dev
+<img src='https://img1.imgtp.com/2023/02/16/QI4hEKRx.png'/>
 
-# build for production with minification
-npm run build
+### 小程序端截图
+<img src="https://img1.imgtp.com/2023/02/16/ydtVYa7O.jpg" width="200"/><img src="https://img1.imgtp.com/2023/02/16/rrIFc4g5.jpg" width="200"/><img src="https://img1.imgtp.com/2023/02/16/ywiIbuVk.jpg" width="200"/>
+<img src="https://img1.imgtp.com/2023/02/16/EJdIEEuH.jpg" width="200"/>
+<img src="https://img1.imgtp.com/2023/02/16/R3W1L3si.jpg" width="200"/>
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
